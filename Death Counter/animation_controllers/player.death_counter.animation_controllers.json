@@ -1,0 +1,30 @@
+{
+	"format_version": "1.10.0",
+	"animation_controllers":{
+		"controller.animation.player.death_count":{
+			"states":{
+				"default":{
+					"transitions":[
+						{
+							"dead":"!query.is_alive"
+						}
+					]
+				},
+				"dead":{
+					"on_entry":[
+						"/scoreboard objectives add death_count dummy \"§l§4Deaths§r\"",
+						"/scoreboard objectives setdisplay belowname death_count"
+					],
+					"transitions":[
+						{
+							"default":"query.is_alive"
+						}
+					],
+					"on_exit":[
+						"/scoreboard players add @s death_count 1"
+					]
+				}
+			}
+		}
+	}
+}

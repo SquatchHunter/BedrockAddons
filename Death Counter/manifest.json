@@ -1,0 +1,19 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "§6Death Counter§r\n    §l§4[Beta Branch]§r ",
+		"name": "Death Counter",
+		"uuid": "099aee7a-d3aa-4cfe-aa45-dbbea66f36d1",
+		"version": [ 0, 0, 1 ],
+		"min_engine_version": [ 1, 17, 0 ]
+	},
+	"modules": [
+		{
+			"description": "Core",
+			"type": "data",
+			"uuid": "bf54de62-8b7e-4b5d-8721-c780a3c3cfc6",
+			"version": [0, 0, 1]
+		}
+	],
+	"dependencies": []
+}
