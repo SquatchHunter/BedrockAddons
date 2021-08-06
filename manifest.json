@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Adds a recipe to craft §dSpore Blossoms§r using Alliums & Dripleaf, as seen on HermitCraft\nMade by §6Squatch_§r",
+        "name": "§dCraftable Spore Blossom§r",
+        "uuid": "88ff945d-3492-415d-bc6e-e3ca5a7fe547",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 17, 0]
+    },
+    "modules": [
+        {
+			"description":"Recipes",
+            "type": "data",
+            "uuid": "9685b13d-d0b2-4ee3-833b-907583508f69",
+            "version": [1, 0, 0]
+        }
+    ]
+}
