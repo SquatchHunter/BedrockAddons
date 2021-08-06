@@ -1,2 +1,4 @@
-# BedrockAddons
-A central place for me to store all my Minecraft: Bedrock Addons/Tweaks
+# Craftable Spore Blossoms
+
+Does what the name suggest, craftable Spore Blossoms.
+![Spore Blossom Crafting Recipe](https://imgur.com/UPdqPSf)
