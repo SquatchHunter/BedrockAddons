@@ -9,7 +9,7 @@
     },
     "modules": [
         {
-	    "description":"core",
+	    "description": "core",
             "type": "data",
             "uuid": "9685b13d-d0b2-4ee3-833b-907583508f69",
             "version": [1, 0, 0]
