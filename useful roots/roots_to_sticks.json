@@ -1,0 +1,21 @@
+{
+  "format_version": "1.19.1",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "btse:roots_to_sticks"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "priority": 0,
+    "ingredients": [
+      {
+        "item": "minecraft:mangrove_roots"
+      }
+    ],
+    "result": {
+      "item": "minecraft:stick",
+      "count": 6
+    }
+  }
+}

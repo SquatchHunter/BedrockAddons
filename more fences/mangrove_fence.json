@@ -1,0 +1,29 @@
+{
+  "format_version": "1.19.1",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "btse:mangrove_fence"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "priority": 0,
+    "pattern": [
+      "   ",
+      "#S#",
+      "#S#"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:mangrove_planks"
+      },
+      "S": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "minecraft:mangrove_fence",
+      "count": 8
+    }
+  }
+}

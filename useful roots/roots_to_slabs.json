@@ -1,0 +1,24 @@
+{
+  "format_version": "1.19.1",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "btse:roots_to_slabs"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "priority": 0,
+    "pattern": [
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:mangrove_roots"
+      }
+    },
+    "result": {
+      "item": "minecraft:mangrove_slab",
+      "count": 3
+    }
+  }
+}

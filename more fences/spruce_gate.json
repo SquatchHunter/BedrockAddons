@@ -1,0 +1,30 @@
+{
+  "format_version": "1.19.1",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "btse:spruce_fence_gate"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "priority": 0,
+    "pattern": [
+      "   ",
+      "S#S",
+      "S#S"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:planks",
+        "data": 1
+      },
+      "S": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "minecraft:spruce_fence_gate",
+      "count": 4
+    }
+  }
+}

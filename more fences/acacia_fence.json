@@ -1,0 +1,31 @@
+{
+  "format_version": "1.19.1",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "btse:acacia_fence"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "priority": 0,
+    "pattern": [
+      "   ",
+      "#S#",
+      "#S#"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:planks",
+        "data": 4
+      },
+      "S": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "minecraft:fence",
+      "data": 4,
+      "count": 8
+    }
+  }
+}
