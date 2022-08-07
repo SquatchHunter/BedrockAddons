@@ -1,0 +1,30 @@
+{
+	"format_version": "1.19.1",
+	"animation_controllers": {
+		"controller.animation.player.1p_sleep": {
+			"initial_state": "awake",
+			"states": {
+				"awake": {
+					"on_entry": [
+						"/title @a reset"
+					],
+					"transitions": [
+						{
+							"asleep": "query.is_sleeping"
+						}
+					]
+				},
+				"asleep": {
+					"animations": [
+						"skip_the_night"
+					],
+					"transitions": [
+						{
+							"awake": "!query.is_sleeping"
+						}
+					]
+				}
+			}
+		}
+	}
+}

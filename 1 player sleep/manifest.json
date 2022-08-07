@@ -1,0 +1,42 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Squatch_"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.2.13"
+			],
+			"dash": [
+				"0.8.18"
+			]
+		}
+	},
+	"header": {
+		"name": "[§4Legacy§r] §b1 Person Sleep§r",
+		"description": "Enables the old multiplayer sleep functionality, ony maintained until newer versions exist.",
+		"min_engine_version": [
+			1,
+			19,
+			0
+		],
+		"uuid": "cbbf4dfe-33e1-41e7-9390-08927456447f",
+		"version": [
+			1,
+			0,
+			2
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "85ac8c32-95d3-45d1-a6be-948c43f43dad",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

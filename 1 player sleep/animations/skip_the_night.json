@@ -1,0 +1,17 @@
+{
+	"format_version": "1.10.0",
+	"animations": {
+		"animation.skip_the_night": {
+			"timeline": {
+				"0.0": [],
+				"5.0": [
+					"/titleraw @a times 20 100 20",
+					"/titleraw @a actionbar {\"rawtext\":[{\"text\":\"§o§gSkipping the night... §r\"}]}",
+					"/time set 0",
+					"/weather clear"
+				]
+			},
+			"animation_length": 5
+		}
+	}
+}
