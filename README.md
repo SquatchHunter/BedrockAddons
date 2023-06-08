@@ -1,4 +1,5 @@
 # Bedrock Addons: Squatch Edition
 A central place for me to store all my Minecraft: Bedrock Addons/Tweaks.
 
-To get started either select a branch in the top left of this module or check out the [Releases](https://github.com/SquatchHunter/BedrockAddons/releases) page for pre packaged .mcpack files :)
+Welcome to the 1.20 branch.
+This has all the packs I have taken from BedrockTweaks.net and updated to include the new 1.20 block types.
