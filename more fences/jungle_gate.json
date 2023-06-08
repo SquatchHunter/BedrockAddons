@@ -1,0 +1,30 @@
+{
+	"format_version": "1.19.1",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "btse:jungle_fence_gate"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"priority": 0,
+		"pattern": [
+			"   ",
+			"S#S",
+			"S#S"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:planks",
+				"data": 3
+			},
+			"S": {
+				"item": "minecraft:stick"
+			}
+		},
+		"result": {
+			"item": "minecraft:jungle_fence_gate",
+			"count": 4
+		}
+	}
+}
